@@ -1,0 +1,24 @@
+Example #1
+CPSC 3335-01-Programming Assignment #1
+The alternating disk problem: left-to-right algorithm
+Enter the number of single color disks(light or dark)
+4
+Initial Configuation
+List of disks
+dldldldl
+After moving darker ones to the right
+List of disks
+lllldddd
+Number of swaps is 17
+Example #2
+CPSC 3335-01-Programming Assignment #1
+The alternating disk problem: left-to-right algorithm
+Enter the number of single color disks(light or dark)
+3
+Initial Configuration
+List of disks
+dldldl
+After moving darker ones to the right
+List of disks
+lllddd
+Number of swaps is 10

@@ -1,0 +1,24 @@
+Example #1
+CPSC 3335-01-Programing Assignment #1
+The alternating disk problem: lawnmower algorithm
+Enter the number of single color disks(light or dark)
+4
+Initial Configuation
+List of disks
+dldldldl
+After moving darker ones to the right
+List of disks
+lllldddd
+Number of swaps is 26
+Example #2
+CPSC 3335-01-Programing Assignment #1
+The alternating disk problem: lawnmower algorithm
+Enter the number of single color disks(light or dark)
+3
+Initial Configuation
+List of disks
+dldldl
+After moving darker ones to the right
+List of disks
+lllddd
+Number of swaps is 14
